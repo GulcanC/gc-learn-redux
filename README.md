@@ -8,7 +8,6 @@ Clone this repository, install dependencies, and then start the server. Follow t
 
 ```
 git clone https://github.com/GulcanC/gc-learn-redux.git
-
 ```
 
 ```
