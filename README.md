@@ -4,7 +4,15 @@ I created this small project to explain the React Redux folder stracture. You ca
 
 ## Getting Started
 
-Clone this repository and install dependencies, and then start the server.
+Clone this repository, install dependencies, and then start the server. Follow the commands below.
+
+git clone https://github.com/GulcanC/gc-learn-redux.git
+
+npm install 
+
+npm start
+
+
 
 
 <img src="https://github.com/GulcanC/gc-learn-redux/blob/main/gif.gif"  width="600" height="500" margin="auto"/>
