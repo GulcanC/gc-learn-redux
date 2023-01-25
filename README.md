@@ -7,4 +7,4 @@ I created this small project to explain the React Redux folder stracture. You ca
 Clone this repository and install dependencies, and then start the server.
 
 
-<img src="https://github.com/GulcanC/gc-learn-redux/blob/main/gif.gif"  width="800" height="800" margin="auto"/>
+<img src="https://github.com/GulcanC/gc-learn-redux/blob/main/gif.gif"  width="600" height="500" margin="auto"/>
