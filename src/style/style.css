@@ -1,0 +1,35 @@
+
+.main {
+    background: pink;
+    width: 30rem;
+     height: 20rem;
+     margin: auto;
+     margin-top: 5rem;
+}
+.button {
+    background: rgb(203, 57, 223);
+    color:white;
+    padding: 1.5rem;
+    border: none;
+    border-radius: 0.3rem;
+    margin-top: 3rem;
+
+    font-size: large;
+}
+.button-container {
+    display: flex;
+    flex-direction: row;
+    gap:5rem;
+    justify-content: center;
+}
+.button-text {
+    color: aliceblue;
+    background: black;
+    padding:1rem 0.4rem 0.4rem;
+    width:2rem;
+    height:2rem;
+    margin: auto;
+    margin-top: 5rem;
+    font-weight: 700;
+
+}
